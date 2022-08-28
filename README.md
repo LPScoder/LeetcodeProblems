@@ -1,2 +1,2 @@
-This repository contains blind 75 leetcode problems
+This repository contains blind 75 leetcode solutions
 
